@@ -1,4 +1,4 @@
-//Create a react app from scratch.
+l; //Create a react app from scratch.
 //It should display 2 paragraph HTML elements.
 //The paragraphs should say:
 //Created by YOURNAME.
