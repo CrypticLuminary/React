@@ -1,0 +1,13 @@
+/* App.css */
+.heading { /* Changed from .headings to .heading */
+  color: aqua;
+  font-size: 50px;
+  font-weight: bold;
+   border-bottom: 5px solid #f1356d;
+}
+
+.food-img { /* Changed from .foods to .food-img */
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
